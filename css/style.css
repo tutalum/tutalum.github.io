@@ -18,7 +18,7 @@
     --bs-white: #fff;
     --bs-gray: #6c757d;
     --bs-gray-dark: #343a40;
-    --bs-primary: #0d6efd;
+    --bs-primary: #0093b2;
     --bs-secondary: #6c757d;
     --bs-success: #198754;
     --bs-info: #0dcaf0;
@@ -191,7 +191,7 @@ sup {
 }
 
 a {
-    color: #0d6efd;
+    color: #0093b2;
     text-decoration: underline;
 }
 
@@ -839,8 +839,8 @@ textarea.form-control {
 
 .btn-primary {
     color: #fff;
-    background-color: #0d6efd;
-    border-color: #0d6efd;
+    background-color: #0093b2;
+    border-color: #0093b2;
 }
 
 .btn-primary:hover {
@@ -872,8 +872,8 @@ textarea.form-control {
 
 .btn-primary:disabled, .btn-primary.disabled {
     color: #fff;
-    background-color: #0d6efd;
-    border-color: #0d6efd;
+    background-color: #0093b2;
+    border-color: #0093b2;
 }
 
 .btn-ternary {
@@ -916,14 +916,14 @@ textarea.form-control {
 }
 
 .btn-outline-primary {
-    color: #0d6efd;
-    border-color: #0d6efd;
+    color: #0093b2;
+    border-color: #0093b2;
 }
 
 .btn-outline-primary:hover {
     color: #fff;
-    background-color: #0d6efd;
-    border-color: #0d6efd;
+    background-color: #0093b2;
+    border-color: #0093b2;
 }
 
 .btn-outline-primary:focus {
@@ -933,8 +933,8 @@ textarea.form-control {
 
 .btn-outline-primary:active, .btn-outline-primary.active, .btn-outline-primary.dropdown-toggle.show {
     color: #fff;
-    background-color: #0d6efd;
-    border-color: #0d6efd;
+    background-color: #0093b2;
+    border-color: #0093b2;
 }
 
 .btn-outline-primary:active:focus, .btn-outline-primary.active:focus, .btn-outline-primary.dropdown-toggle.show:focus {
@@ -943,7 +943,7 @@ textarea.form-control {
 }
 
 .btn-outline-primary:disabled, .btn-outline-primary.disabled {
-    color: #0d6efd;
+    color: #0093b2;
     background-color: transparent;
 }
 
@@ -1142,7 +1142,7 @@ textarea.form-control {
 .dropdown-item.active, .dropdown-item:active {
     color: #fff;
     text-decoration: none;
-    background-color: #0d6efd;
+    background-color: #0093b2;
 }
 
 .dropdown-item.disabled, .dropdown-item:disabled {
@@ -1512,8 +1512,8 @@ textarea.form-control {
 .list-group-item.active {
     z-index: 2;
     color: #fff;
-    background-color: #0d6efd;
-    border-color: #0d6efd;
+    background-color: #0093b2;
+    border-color: #0093b2;
 }
 
 .list-group-item + .list-group-item {
@@ -2107,7 +2107,7 @@ textarea.form-control {
 }
 
 .bg-primary {
-    background-color: #0d6efd !important;
+    background-color: #0093b2 !important;
 }
 
 .bg-light {
@@ -2235,7 +2235,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5,
     color: #fff;
 }
 
-.top-wrap .con .text a{
+.top-wrap .con .text a {
     color: #fff;
 }
 
@@ -4171,7 +4171,7 @@ textarea.form-control {
     z-index: 99;
     font-size: 18px;
     outline: none;
-    background-color: rgba(0,0,0,0);
+    background-color: rgba(0, 0, 0, 0);
     border: 1px solid #0093b2;
     color: #0093b2;
     cursor: pointer;
